@@ -32,8 +32,8 @@ const App = () => {
   //         {/* <SelectATaskForChildScreen /> */}
   //     </SafeAreaView>
   // );
-  // return <AddReward />;
-  return <LoginScreen />;
+  return <AddReward />;
+  // return <LoginScreen />;
 };
 
 export default App;
